@@ -12,3 +12,5 @@ Proposed Shortcodes
 * How the user can access, update, or delete the collected data [privacy-user-managing-personal-data]
 
 Note: Intention is to get this eventually into WordPress core, possibly via the https://github.com/GDPRWP/GDPRWP-Plugin project
+
+See also related proof-of-concept plugin https://github.com/allendav/wp-user-ip-history
