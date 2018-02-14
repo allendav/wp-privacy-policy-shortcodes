@@ -36,6 +36,9 @@ How you can access, update, or delete your collected data
 [privacy-user-managing-personal-data]
 ```
 
+It then looks like this on the front-side:
+
+![Sample](assets/sample-page.png)
 
 Note: Intention is to get this eventually into WordPress core, possibly via the https://github.com/GDPRWP/GDPRWP-Plugin project
 
